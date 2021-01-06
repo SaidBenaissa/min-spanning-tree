@@ -8,7 +8,7 @@
 
 #include <iostream>
 
-int32_t I = INFINITY;
+int32_t I = INT_MAX;
 using namespace std;
 
 int cost[][8] = {{I, I,  I,  I,  I,  I,  I,  I},
